@@ -1,4 +1,4 @@
-# Stock Fetcher (AGY Demo)
+# Stock Fetcher
 
 A modular, multi-provider Python financial analysis and stock reporting CLI. Fetches real-time equity quotes, valuation ratios, profitability margins, earnings dates, multi-year cash flow statements, and historical performance metrics. Supports clean terminal output and styled Excel (`.xlsx`) exports.
 
